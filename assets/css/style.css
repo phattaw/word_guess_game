@@ -1,0 +1,32 @@
+
+#random-word {
+    float: left;
+    clear: none;
+}
+
+h2 {
+    clear: both;
+    /* background-color: rgba(255,255,255,.5); */
+}
+
+/* h3 {
+    background-color: rgba(255,255,255,.5);
+} */
+
+#div_bkgd {
+    background-color: rgba(255,255,255,.5);
+    width: 1400px;
+    height: 1400px;
+}
+
+#game_text {
+    width: 300px;
+}
+
+body {
+    background-image: url('../images/Inveraray_Castle_-_south-west_facade.jpg');
+    background-size: 1400px;
+    background-repeat: no-repeat;
+    font-family: 'Srisakdi', cursive;
+    color: black;
+}
