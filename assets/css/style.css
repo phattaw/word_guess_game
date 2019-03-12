@@ -6,12 +6,7 @@
 
 h2 {
     clear: both;
-    /* background-color: rgba(255,255,255,.5); */
 }
-
-/* h3 {
-    background-color: rgba(255,255,255,.5);
-} */
 
 #div_bkgd {
     background-color: rgba(255,255,255,.5);
@@ -30,3 +25,4 @@ body {
     font-family: 'Srisakdi', cursive;
     color: black;
 }
+

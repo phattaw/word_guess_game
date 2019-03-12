@@ -45,10 +45,6 @@ $(document).ready(function() {
                     }
                 }
 
-                // if(guessed_characters.length === 0) {
-                //     guessed_characters.push(char_pressed)
-                // }
-
                 var found = guessed_characters.find( function(character) {
                     return( character === char_pressed);
                 });
